@@ -1,4 +1,4 @@
-package it.polito.tdp.corsi;
+ package it.polito.tdp.corsi;
 
 public class Main {
 	public static void main(String[] args) {
